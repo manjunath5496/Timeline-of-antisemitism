@@ -1350,7 +1350,7 @@
 </dl>
 <dl>
 <dt>1436</dt>
-<dd>Jews of Zurich are expelled.<sup id="cite_ref-Zurich_100-1" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_antisemitism#cite_note-Zurich-100">[100]</a></sup></dd>
+<dd>Jews of Zurich are expelled.</dd>
 </dl>
 <dl>
 <dt>1438</dt>
