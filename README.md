@@ -2100,7 +2100,7 @@
 </dl>
 <dl>
 <dt>1721</dt>
-<dd><a title="Maria Barbara Carillo" href="https://en.wikipedia.org/wiki/Maria_Barbara_Carillo">Maria Barbara Carillo</a>&nbsp;was&nbsp;<a class="mw-redirect" title="Burned at the stake" href="https://en.wikipedia.org/wiki/Burned_at_the_stake">burned at the stake</a>&nbsp;for heresy during the&nbsp;<a title="Spanish Inquisition" href="https://en.wikipedia.org/wiki/Spanish_Inquisition">Spanish Inquisition</a>. She was executed at the age of 95 or 96&nbsp;and is the oldest person known to have been executed at the instigation of the Inquisition.<sup id="cite_ref-162" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_antisemitism#cite_note-162">[162]</a></sup>&nbsp;Carillo was sentenced to death for heresy for returning to her faith in Judaism.</dd>
+<dd><a title="Maria Barbara Carillo" href="https://en.wikipedia.org/wiki/Maria_Barbara_Carillo">Maria Barbara Carillo</a>&nbsp;was&nbsp;<a class="mw-redirect" title="Burned at the stake" href="https://en.wikipedia.org/wiki/Burned_at_the_stake">burned at the stake</a>&nbsp;for heresy during the&nbsp;<a title="Spanish Inquisition" href="https://en.wikipedia.org/wiki/Spanish_Inquisition">Spanish Inquisition</a>. She was executed at the age of 95 or 96&nbsp;and is the oldest person known to have been executed at the instigation of the Inquisition.&nbsp;Carillo was sentenced to death for heresy for returning to her faith in Judaism.</dd>
 </dl>
 <dl>
 <dt>1724</dt>
